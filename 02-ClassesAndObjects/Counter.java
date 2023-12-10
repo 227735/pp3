@@ -1,5 +1,5 @@
 public class Counter {
-    private int value; // Attribute to store the counter's value
+    private int value;
 
     public Counter() {
         value = 0; 

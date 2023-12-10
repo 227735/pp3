@@ -10,7 +10,7 @@ public class Rectangle {
         return length * width;
     }
 
-    void displayRectangleInfo() {
+    public void displayRectangleInfo() {
         System.out.println("Dimensions: " + length + " x " + width);
         System.out.println("Perimeter: " + Perimeter());
         System.out.println("Surface Area: " + SurfaceArea());
