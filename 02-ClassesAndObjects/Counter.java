@@ -53,7 +53,7 @@ public class Counter {
         counter2.decreaseBy10();
         counter2.decreaseBy10();
         counter2.decrease();
-        
+
         System.out.println("Counter 1 Value: " + counter1.getValue());
         System.out.println("Counter 2 Value: " + counter2.getValue());
     }
