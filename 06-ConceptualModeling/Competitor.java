@@ -7,7 +7,6 @@ public class Competitor{
         assignScores();
     }
 
-
     private void assignScores(){
         for(int i=0; i < 5; i++){
             scores[i] = (int)(Math.random()*5) +  1;
